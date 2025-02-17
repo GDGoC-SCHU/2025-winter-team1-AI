@@ -32,19 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 .env
-.env
-
-# IDE 관련 파일
-.idea/
-.vscode/
-
-# OS 관련 파일
-.DS_Store
-
-# Maven 빌드 결과
-target/
-*.class
-
-# 환경 변수 파일 (API 키 보호)
-.env
 
